@@ -1,10 +1,10 @@
-# Socket Node Client and Server 
+# Cordova Socket Client 
 
 ## Description
-Client and Server programs for testing socket communication.
+A cross platform Cordova app that shows the connection with a socket server. It updates the time every second on the screen.
 
 ## Requirements
-For development, you will only need Cordova, Node.js and a node global package, installed in your environement. 
+For development, you will only need [Apache Cordova](https://cordova.apache.org/), [Node JS](https://nodejs.org/) and [NPM](https://npmjs.org/), installed in your environement. 
 
 ### Cordova
 
