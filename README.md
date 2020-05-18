@@ -21,19 +21,13 @@ If the installation was successful, you should be able to run the following comm
     $ node --version        
 
     $ npm --version
-
-### Socket IO
-
-[Socket IO](https://www.npmjs.com/package/socket.io)
-    
-    $ npm install socket.io
     
 ## Installation
 
 ### Project
     $ git clone https://github.com/brworkit/cordova-socket-client.git
     $ cd cordova-socket-client
-    $ npm install
+    $ npm install (to install the required modules)
     
 ## Usage
 
