@@ -31,7 +31,9 @@ If the installation was successful, you should be able to run the following comm
     
 ## Usage
 
-Start the socket server you can clone [from this link](https://github.com/brworkit/socket-node-example.git) following the README instructions and start it
+Start the socket server you can clone [from this link](https://github.com/brworkit/socket-node-example.git) following the README instructions and run it locally.
+
+## Run Cordova App
 
 Start Cordova App at browser using:
     
