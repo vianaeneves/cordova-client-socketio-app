@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "SocketTimer",
+  "short_name": "SocketTimer",
+  "version": "com.appti.project.keeper.template",
+  "description": "A code base template to project keeper app",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}

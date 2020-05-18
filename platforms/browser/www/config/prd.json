@@ -1,0 +1,9 @@
+{
+    "env": "PRD",
+    "version": "1.0.0",
+    "SOCKET_SERVER_BASE_PATH": "http://localhost:8500",
+    "CHANNEL_START_CONNECTION": "connect",
+    "CHANNEL_CLOSE_CONNECTION": "disconnect",
+    "CHANNEL_MESSAGES_CONNECTION": "messages",
+    "CHANNEL_CLOCK": "clock"
+}
