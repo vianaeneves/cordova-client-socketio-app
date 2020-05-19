@@ -11,10 +11,10 @@
 }
 
 :root {
-    --primary-color: black;
-    --primary-light-color: rgb(15, 15, 15);
-    --secondary-color: #34B628;
-    --secondary-light-color: rgba(52, 182, 40, 0.685);
+    --primary-color: #004AAD;
+    --primary-light-color: #1174FB;
+    --secondary-color: #FFCA00;
+    --secondary-light-color: #FFCA00;
     --break-color: white;
     --smooth-color: rgb(175, 175, 175);
     --default-border-radius: 2px;
