@@ -47,7 +47,7 @@ Start Cordova App at Android device/emulator using:
 
 You will see in your app screen:
     
-    ![Web Application](screenshot-web.png)
+![Web Application](screenshot-web.png)
     
 
 ## License
