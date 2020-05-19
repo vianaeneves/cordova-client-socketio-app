@@ -47,7 +47,8 @@ Start Cordova App at Android device/emulator using:
 
 You will see in your app screen:
     
-    # TODO: insert image here
+    ![Web Application](www/img/screenshot-web.png)
+    
 
 ## License
 [MIT License.](https://opensource.org/licenses/MIT)    
