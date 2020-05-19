@@ -45,10 +45,13 @@ Start Cordova App at Android device/emulator using:
 
     **PS:** maybe locally in android device you will not see the timer because it wont be able to find your localhost. Soon I will make a setup of a live url to suport it.
 
-You will see in your app screen:
+## Wep Application
     
 ![Web Application](screenshot-web.png)
     
+## Android Application Emulator
+
+![Web Application](screenshot-android-emulator.png)
 
 ## License
 [MIT License.](https://opensource.org/licenses/MIT)    
