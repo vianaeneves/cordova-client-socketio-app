@@ -2,10 +2,10 @@
 <widget id="com.appti.project.keeper.template" version="1.0.1" versionCode="10001" android-versionCode= "10001" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SocketTimer</name>
     <description>
-        A code base template to project keeper app
+        A cross platform Cordova app that shows the connection with a socket server. It updates the time every second on the screen.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="brworkit@gmail.com" href="http://cordova.io">
+        brworkit
     </author>
     
     <content src="index.html" />
