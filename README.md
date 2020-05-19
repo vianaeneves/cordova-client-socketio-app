@@ -53,6 +53,10 @@ Start Cordova App at Android device/emulator using:
 
 ![Web Application](screenshot-android-emulator.png)
 
+## Android Application Real Device
+
+![Web Application](screenshot-android-device.jpeg)
+
 ## License
 [MIT License.](https://opensource.org/licenses/MIT)    
 Copyright (c) 2020 **brworkit**.
