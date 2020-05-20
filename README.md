@@ -41,7 +41,7 @@ Start Cordova App at Android device/emulator using:
     
     $ cordova run android
 
-    **PS:** maybe locally in android device you will not see the timer because it wont be able to find your localhost. Soon I will make a setup of a live url to suport it.
+**PS:** maybe locally in android device you will not see the timer because it wont be able to find your localhost. Soon I will make a setup of a live url to suport it.
 
 ## Wep Application
     
