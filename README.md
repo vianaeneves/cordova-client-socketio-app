@@ -8,8 +8,6 @@ For development, you will only need [Apache Cordova](https://cordova.apache.org/
 
 ### Cordova
 
-- #### Node installation on your platform
-
   Just go on [official Cordova setup](https://cordova.apache.org/docs/en/latest/guide/cli/index.html).
 
 ### Node and NPM
