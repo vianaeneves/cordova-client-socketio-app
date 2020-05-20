@@ -1,4 +1,4 @@
-# Cordova Socket Client 
+# Cordova SocketIO Client App 
 
 ## Description
 A cross platform Cordova app that shows the connection with a socket server. It updates the time every second on the screen.
